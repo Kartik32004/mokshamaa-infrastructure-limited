@@ -184,7 +184,10 @@ function HeroSection() {
             playsInline
             onEnded={handleVideoEnd}
           >
-            <source src="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/istockphoto-1456412730-640_adpp_is-AQpOMtwFdP40e4wCEiFECGnbyTm36V.mp4" type="video/mp4" />
+            <source
+              src="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/istockphoto-1456412730-640_adpp_is.mp4_1757221870114-npAZC9W8xoCAoGJnnzoHvJorXhWvUE.mp4"
+              type="video/mp4"
+            />
           </video>
         </div>
       )}
